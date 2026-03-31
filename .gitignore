@@ -1,7 +1,7 @@
-bot_whatsapp/.wwebjs_auth/
-bot_whatsapp/node_modules/
-bot_whatsapp/__pycache__/
-bot_whatsapp/.wwebjs_cache/
+.wwebjs_auth/
+node_modules/
+__pycache__/
+.wwebjs_cache/
 __pycache__/
 *.pyc
 .env
